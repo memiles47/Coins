@@ -10,7 +10,6 @@ namespace Coins
     {
         static void Main(string[] args)
         {
-            //Initialize classes here
         }
     }
 }
